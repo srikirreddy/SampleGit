@@ -3,7 +3,7 @@ package com.ca;
 public class Sample {
 
     public static void main(String[] args) {
-        System.out.println("My First Git Project1");
+        System.out.println("My First Git Project2");
 
     }
 
